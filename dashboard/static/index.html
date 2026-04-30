@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>AI Farmer Safety Dashboard</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<h1>🌾 Multimodal Cognitive AI Safety Dashboard</h1>
+
+<!-- 🎥 CAMERA FEEDS -->
+<div class="camera-grid">
+  <div class="card">
+    <h2>🐍 Snake Monitoring Camera</h2>
+    <img src="/video_feed" alt="Snake Camera Feed">
+  </div>
+
+  <div class="card">
+    <h2>🚶 Human Safety Camera</h2>
+    <img src="/video_feed" alt="Human Camera Feed">
+  </div>
+</div>
+
+<!-- 🚦 RISK STATUS -->
+<div class="grid-3">
+  <div class="card" id="riskCard">
+    <h2>🚦 Risk Status</h2>
+    <p>Current Risk: <span id="currentRisk"></span></p>
+    <p>Future Risk: <span id="futureRisk"></span></p>
+  </div>
+
+  <!-- ⏳ INACTIVITY MONITOR -->
+  <div class="card">
+    <h2>⏳ Inactivity Monitor</h2>
+
+    <p>Status:
+      <span id="inactivityStatus">Active</span>
+    </p>
+
+    <div class="progress-container">
+      <div id="inactivityBar" class="progress-bar"></div>
+    </div>
+
+    <p>
+      <span id="inactivityTime">0</span>s /
+      <span id="inactivityThreshold">20</span>s
+    </p>
+  </div>
+
+  <!-- 🚶 FALL DETECTION -->
+  <div class="card">
+    <h2>🚶 Fall Detection</h2>
+    <p>Status:
+      <span id="fallDetected" class="status-badge"></span>
+    </p>
+    <p>Confidence: <span id="fallConfidence"></span>%</p>
+  </div>
+</div>
+
+<!-- 🔊 VOICE ALERT INDICATOR -->
+<div id="voiceIndicator" class="voice-indicator">
+  🔊 Voice Alert Playing…
+</div>
+
+<!-- 📊 CONFIDENCE & UNCERTAINTY -->
+<div class="grid-3">
+  <div class="card">
+    <h2>📊 Confidence & Uncertainty</h2>
+    <p>Confidence: <span id="confidence"></span>%</p>
+    <div class="confidence-bar">
+      <div id="confidenceBar" class="confidence-fill"></div>
+    </div>
+    <p>Uncertainty: <span id="uncertainty"></span></p>
+  </div>
+
+  <!-- 🧠 COUNTERFACTUAL -->
+  <div class="card">
+    <h2>🧠 Counterfactual Reasoning</h2>
+    <ul id="counterfactual"></ul>
+  </div>
+
+  <!-- 🌍 SPATIAL -->
+  <div class="card">
+    <h2>🌍 Spatial Risk Propagation</h2>
+    <ul id="spatial"></ul>
+  </div>
+</div>
+
+<!-- 📩 ALERT LOG -->
+<div class="card" id="alertsCard">
+  <h2>📩 Alert Log</h2>
+  <ul id="alerts"></ul>
+</div>
+
+<script src="/static/app.js"></script>
+</body>
+</html>

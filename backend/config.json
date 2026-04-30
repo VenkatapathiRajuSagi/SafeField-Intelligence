@@ -1,0 +1,12 @@
+{
+  "snake_threshold": 40,
+  "fall_threshold": 60,
+  "snake_verify_threshold": 60,
+  "active_zone": "Field_A",
+  "modules": {
+    "snake": true,
+    "fall": true,
+    "inactivity": true,
+    "predictions": true
+  }
+}

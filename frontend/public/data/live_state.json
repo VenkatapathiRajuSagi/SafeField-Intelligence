@@ -1,0 +1,13 @@
+{
+  "snake_detected": false,
+  "fall_detected": false,
+  "inactivity": false,
+  "current_risk": "Low",
+  "future_risk": "Low",
+  "final_risk": "Low",
+  "confidence": 0,
+  "uncertainty": 0,
+  "counterfactual": {},
+  "spatial_risk": {},
+  "timestamp": "2026-04-22T10:52:41.950700"
+}

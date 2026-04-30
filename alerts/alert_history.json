@@ -1,0 +1,310 @@
+[
+  {
+    "type": "Snake",
+    "time": "2026-03-31 21:42:16",
+    "details": "confidence=99.56",
+    "image": "static/detections/1774973533.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Snake",
+    "time": "2026-03-31 21:43:44",
+    "details": "confidence=99.98",
+    "image": "static/detections/1774973621.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Snake",
+    "time": "2026-03-31 21:51:24",
+    "details": "confidence=99.37",
+    "image": "static/detections/1774974082.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Fall",
+    "time": "2026-03-31 22:14:52",
+    "details": "confidence=60.00",
+    "image": "static/detections/1774975492.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Fall",
+    "time": "2026-03-31 22:14:52",
+    "details": "confidence=60.00",
+    "image": "static/detections/1774975492.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Inactivity",
+    "time": "2026-03-31 22:15:05",
+    "details": "duration=8.00",
+    "image": "static/detections/1774975492.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Fall",
+    "time": "2026-04-13 14:51:40",
+    "details": "confidence=60.00",
+    "image": "static/detections/1776072100.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Fall",
+    "time": "2026-04-13 14:51:43",
+    "details": "confidence=60.00",
+    "image": "static/detections/1776072103.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Inactivity",
+    "time": "2026-04-13 14:51:55",
+    "details": "duration=8.06",
+    "image": "static/detections/1776072103.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Fall",
+    "time": "2026-04-20 08:28:05",
+    "details": "confidence=60.00",
+    "image": "static/detections/1776653885.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Snake",
+    "time": "2026-04-20 08:28:29",
+    "details": "confidence=99.99",
+    "image": "static/detections/1776653906.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Snake",
+    "time": "2026-04-20 08:29:21",
+    "details": "confidence=99.97",
+    "image": "static/detections/1776653959.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "False_positive_rejected",
+    "time": "2026-04-20 08:35:26",
+    "details": "snake_overlaps_human",
+    "image": null,
+    "field": "Field A"
+  },
+  {
+    "type": "Fall",
+    "time": "2026-04-20 08:35:32",
+    "details": "confidence=60.00",
+    "image": "static/detections/1776654332.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Snake",
+    "time": "2026-04-20 08:35:41",
+    "details": "confidence=99.99",
+    "image": "static/detections/1776654338.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Fall",
+    "time": "2026-04-20 08:41:33",
+    "details": "confidence=60.00",
+    "image": "static/detections/1776654693.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Fall",
+    "time": "2026-04-20 08:41:34",
+    "details": "confidence=60.00",
+    "image": "static/detections/1776654694.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "False_positive_rejected",
+    "time": "2026-04-20 08:41:34",
+    "details": "snake_overlaps_human",
+    "image": null,
+    "field": "Field A"
+  },
+  {
+    "type": "Fall",
+    "time": "2026-04-20 08:41:34",
+    "details": "confidence=60.00",
+    "image": "static/detections/1776654694.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Fall",
+    "time": "2026-04-20 08:41:41",
+    "details": "confidence=60.00",
+    "image": "static/detections/1776654701.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Snake",
+    "time": "2026-04-20 08:41:45",
+    "details": "confidence=97.95",
+    "image": "static/detections/1776654702.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "False_positive_rejected",
+    "time": "2026-04-20 08:48:59",
+    "details": "snake_overlaps_human",
+    "image": null,
+    "field": "Field A"
+  },
+  {
+    "type": "Snake",
+    "time": "2026-04-20 08:49:02",
+    "details": "confidence=99.96",
+    "image": "static/detections/1776655140.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Snake",
+    "time": "2026-04-20 08:53:22",
+    "details": "confidence=99.91",
+    "image": "static/detections/1776655400.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Snake",
+    "time": "2026-04-20 13:57:03",
+    "details": "confidence=99.38",
+    "image": "static/detections/1776673618.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Snake",
+    "time": "2026-04-20 14:07:53",
+    "details": "confidence=99.95",
+    "image": "static/detections/1776674269.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Fall",
+    "time": "2026-04-20 14:10:52",
+    "details": "confidence=60.00",
+    "image": "static/detections/1776674452.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Inactivity",
+    "time": "2026-04-20 14:11:05",
+    "details": "duration=8.03",
+    "image": "static/detections/1776674452.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "False_positive_rejected",
+    "time": "2026-04-20 14:19:31",
+    "details": "snake_overlaps_human",
+    "image": null,
+    "field": "Field A"
+  },
+  {
+    "type": "Snake",
+    "time": "2026-04-20 14:19:36",
+    "details": "confidence=97.35",
+    "image": "static/detections/1776674972.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Snake",
+    "time": "2026-04-20 14:28:52",
+    "details": "confidence=99.86",
+    "image": "static/detections/1776675530.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Fall",
+    "time": "2026-04-20 14:30:26",
+    "details": "confidence=60.00",
+    "image": "static/detections/1776675626.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Snake",
+    "time": "2026-04-20 15:15:01",
+    "details": "confidence=99.94",
+    "image": "static/detections/1776678295.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Snake",
+    "time": "2026-04-20 15:31:13",
+    "details": "confidence=99.95",
+    "image": "static/detections/1776679270.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Snake",
+    "time": "2026-04-20 15:33:17",
+    "details": "confidence=99.74",
+    "image": "static/detections/1776679394.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Snake",
+    "time": "2026-04-20 15:35:29",
+    "details": "confidence=99.54",
+    "image": "static/detections/1776679526.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Snake",
+    "time": "2026-04-20 15:38:41",
+    "details": "confidence=99.95",
+    "image": "static/detections/1776679718.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Snake",
+    "time": "2026-04-21 18:51:46",
+    "details": "confidence=99.99",
+    "image": "static/detections/1776777704.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Fall",
+    "time": "2026-04-21 18:53:30",
+    "details": "confidence=60.00",
+    "image": "static/detections/1776777810.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Inactivity",
+    "time": "2026-04-21 18:53:49",
+    "details": "duration=15.06",
+    "image": "static/detections/1776777810.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Fall",
+    "time": "2026-04-21 18:54:40",
+    "details": "confidence=60.00",
+    "image": "static/detections/1776777880.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Inactivity",
+    "time": "2026-04-21 18:54:58",
+    "details": "duration=15.06",
+    "image": "static/detections/1776777880.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Snake",
+    "time": "2026-04-22 09:53:06",
+    "details": "confidence=99.99",
+    "image": "static/detections/1776831782.jpg",
+    "field": "Field A"
+  },
+  {
+    "type": "Snake",
+    "time": "2026-04-22 10:52:38",
+    "details": "confidence=99.49",
+    "image": "static/detections/1776835347.jpg",
+    "field": "Field A"
+  }
+]
